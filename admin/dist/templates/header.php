@@ -70,11 +70,11 @@
                                     <a class="nav-link" href="discount-code.php">Mã giảm giá</a>
                                 </nav>
                             </div>
-                            <a class="nav-link nav-hov" href="#" >
+                            <a class="nav-link nav-hov" href="product.php" >
                                 <div class="sb-nav-link-icon"><i class="bi bi-kanban-fill"></i></div>
                                 Nhà sản xuất
                             </a>
-                            <a class="nav-link nav-hov" href="#" >
+                            <a class="nav-link nav-hov" href="users.php" >
                                 <div class="sb-nav-link-icon"><i class="bi bi-people-fill"></i></div>
                                 Người dùng
                             </a>
@@ -93,21 +93,14 @@
                                     </a>
                                     
                                     <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseError" aria-expanded="false" aria-controls="pagesCollapseError">
-                                        Error
-                                        <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                                        Đơn vị vận chuyển
                                     </a>
-                                    <div class="collapse" id="pagesCollapseError" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
-                                        <nav class="sb-sidenav-menu-nested nav">
-                                            <a class="nav-link" href="401.html">401 Page</a>
-                                            <a class="nav-link" href="404.html">404 Page</a>
-                                            <a class="nav-link" href="500.html">500 Page</a>
-                                        </nav>
-                                    </div>
+                                    
                                 </nav>
                             </div>
 
                             <!-- account -->
-                            <a class="nav-link collapsed nav-hov" href="#" data-bs-toggle="collapse" data-bs-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages">
+                            <a class="nav-link collapsed nav-hov" href="profile.php" >
                                 <div class="sb-nav-link-icon"><i class="bi bi-person-circle"></i></div>
                                 Tài khoản
                             </a>
